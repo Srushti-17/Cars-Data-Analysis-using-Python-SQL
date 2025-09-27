@@ -62,8 +62,5 @@ FROM cars_dataset_2025_cleaned
 WHERE seats >= 5
 ORDER BY seats DESC;
 
--- Torque vs horsepower relation
-SELECT cars_names, company_names, horsepower, torque
-FROM cars_dataset_2025_cleaned
-ORDER BY horsepower DESC;
+
 
