@@ -2,8 +2,6 @@
 
 This project involves exploring and analyzing a Kaggle dataset containing specifications and performance details of various cars. The dataset includes information such as manufacturer, model, engine capacity, horsepower, performance metrics, pricing, and fuel type.
 
-The dataset was **cleaned using Python (pandas)** to handle inconsistencies such as ranges, units, and formatting issues. After cleaning, the data was imported into **SQL Workbench** for structured exploration and analysis using SQL queries.
-
 ## Dataset Overview
 * **File Name**: car_dataset_2025.csv
 * **Rows**: 1,218
